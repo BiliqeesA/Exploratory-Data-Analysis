@@ -50,7 +50,8 @@ All dimension tables (foreign keys) were connected to the fact table (primary ke
 
 ![Annotation 2023-02-26 170033](https://user-images.githubusercontent.com/119788228/224508724-c93d2687-26db-4d6e-8bbf-bb5247028fe2.png)  
  *what the customer's name looks like after splitting*
- 
+
+
 ### DATA VISUALIZATION & INSIGHTS
 
 The store made a profit of $81,000 in 2016 and a $93,000 profit the following year. In 2016, the store sold over 9000 items, and 12,000 items the following year. This rise in sales and profits was brought on by more potential customers.
@@ -61,6 +62,7 @@ The store made a profit of $81,000 in 2016 and a $93,000 profit the following ye
 ![Annotation 2023-02-26 165435,2017](https://user-images.githubusercontent.com/119788228/224514797-5573d55e-b99f-4731-bdcf-62871b5d6184.png)  
  *2017*
  
+ 
 **Quantity and Sales by Month:**
 For the calendar year 2016, the superstore acquired the highest revenue in December and September, with over 1000 items sold out respectively, and had the lowest sales at the beginning of the year, which relatively picked up by May. Compared to 2016, sales increased relatively in 2017. The highest sales of items occurred in September and November 2017 as a result of an increase in the number of items purchased by customers. The increase in sales could also be a result of discounted prices of items offered in the 4th quarter of the year.
 
@@ -69,6 +71,7 @@ For the calendar year 2016, the superstore acquired the highest revenue in Decem
 
 ![Annotation 2023-03-10 153558,17](https://user-images.githubusercontent.com/119788228/224515374-768e74f1-7036-43d3-83a8-2116f870689e.png)  
  *2017*
+ 
  
 **Sales and Profit by Category:**
 Over time, the most profitable items were those classified as technology and office supplies, which also had the highest sales. Although furniture-related items initially made significant sales, they eventually started to lose money. This could be the result of the cost price (the expenses to produce the furniture items) being higher than the selling price; as a result, as sales increase, more loss is incurred.
@@ -79,6 +82,7 @@ Over time, the most profitable items were those classified as technology and off
 ![Annotation 2023-03-10 182625,17](https://user-images.githubusercontent.com/119788228/224555042-c9b65d1e-68e2-4f4b-966b-dad846b0483a.png)  
 *2017*
 
+
 **Profit by Region and Category:**
 In the US southern region, sales of certain products produced more profit in 2016; however, in 2017, sales in this region saw a sharp decline, possibly as a result of some unforeseeable circumstances. In 2017, the western region contributed more to overall profits, which were $46,000 higher than in 2016.
 
@@ -87,6 +91,7 @@ In the US southern region, sales of certain products produced more profit in 201
 
 ![Annotation 2023-03-10 155257,17](https://user-images.githubusercontent.com/119788228/224555183-548345cd-95d7-40e3-8a2e-7f1bdfc4872d.png)  
 *2017*
+
 
 **Sales and Profit by Sub-category:**
 Humans will always purchase phones because they want the newest, most luxurious models. The revenue generated from the sales of phones increased by $29,000, with an additional profit of $4,000 in 2017. The purchase of furniture (tables) increased year over year, which led to the store owner suffering more losses.
@@ -97,14 +102,18 @@ Humans will always purchase phones because they want the newest, most luxurious 
 ![Annotation 2023-03-10 154531,17](https://user-images.githubusercontent.com/119788228/224555281-c8df07f7-566f-4626-a7e3-9fbcdc11e343.png)  
 *2017*
 
+
 **Top 6 Profitable Products:**
+
 ![Annotation 2023-03-10 155459,16](https://user-images.githubusercontent.com/119788228/224555347-6b69d152-14e2-4740-936a-b3844ce6ad9f.png)  
 *2016*
 
 ![Annotation 2023-03-10 155544,17](https://user-images.githubusercontent.com/119788228/224555346-cff30358-2dbc-4f14-be16-9286ad6d3fe7.png)  
 *2017*
 
+
 **Top 6 purchasing customers:**
+
 Jonathan, Paul, and Edward purchased the highest quantity of items from the store in 2016. While in 2017, John, Seth, and Janet made more purchases.
 
 ![Annotation 2023-03-10 155755,16](https://user-images.githubusercontent.com/119788228/224555515-96deab17-8a2e-4bad-8c85-4a8a757bd3aa.png)  
@@ -113,6 +122,7 @@ Jonathan, Paul, and Edward purchased the highest quantity of items from the stor
 ![Annotation 2023-03-10 160031,17](https://user-images.githubusercontent.com/119788228/224555518-c82a2840-e2bb-47f4-a6a4-767e2bae3620.png)  
 *2017*
 
+
 **Top 6 purchasing Customers by product category:**
 
 ![Annotation 2023-03-10 160238,16](https://user-images.githubusercontent.com/119788228/224555585-510af10e-6fdf-4f58-8c5c-e4c773fab5f6.png)  
@@ -120,6 +130,7 @@ Jonathan, Paul, and Edward purchased the highest quantity of items from the stor
 
 ![Annotation 2023-03-10 160536,17](https://user-images.githubusercontent.com/119788228/224555589-d44dcc21-e409-4fd5-8628-5c50805f556c.png)  
 *2017*
+
 
 ### REPORT VIEW
 The report is a three-page document:
@@ -135,6 +146,7 @@ The report is a three-page document:
 
 ![Annotation 2023-03-12 170550](https://user-images.githubusercontent.com/119788228/224557427-c7015487-1306-42b2-80a5-bdf11a7a72a1.png)  
 *2017 report view*
+
 
 ### RECOMMENDATION
 - A business's primary goal is typically to maximize profits. For the products that are losing money, more research can be done to improve them better with lower costs while keeping their selling price. 
