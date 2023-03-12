@@ -64,6 +64,7 @@ The store made a profit of $81,000 in 2016 and a $93,000 profit the following ye
  
  
 **Quantity and Sales by Month:**
+
 For the calendar year 2016, the superstore acquired the highest revenue in December and September, with over 1000 items sold out respectively, and had the lowest sales at the beginning of the year, which relatively picked up by May. Compared to 2016, sales increased relatively in 2017. The highest sales of items occurred in September and November 2017 as a result of an increase in the number of items purchased by customers. The increase in sales could also be a result of discounted prices of items offered in the 4th quarter of the year.
 
 ![Annotation 2023-03-10 153426,16](https://user-images.githubusercontent.com/119788228/224515375-d99a6beb-223c-45e4-a967-b2d7701a8f9e.png)  
@@ -74,6 +75,7 @@ For the calendar year 2016, the superstore acquired the highest revenue in Decem
  
  
 **Sales and Profit by Category:**
+
 Over time, the most profitable items were those classified as technology and office supplies, which also had the highest sales. Although furniture-related items initially made significant sales, they eventually started to lose money. This could be the result of the cost price (the expenses to produce the furniture items) being higher than the selling price; as a result, as sales increase, more loss is incurred.
 
 ![Annotation 2023-03-10 182609,16](https://user-images.githubusercontent.com/119788228/224555047-1121521b-0320-4d0b-a03b-b3f5c808190d.png)  
@@ -84,6 +86,7 @@ Over time, the most profitable items were those classified as technology and off
 
 
 **Profit by Region and Category:**
+
 In the US southern region, sales of certain products produced more profit in 2016; however, in 2017, sales in this region saw a sharp decline, possibly as a result of some unforeseeable circumstances. In 2017, the western region contributed more to overall profits, which were $46,000 higher than in 2016.
 
 ![Annotation 2023-03-10 155143,16](https://user-images.githubusercontent.com/119788228/224555179-b813dd5f-611d-4862-81bc-9fb073346056.png)  
@@ -94,6 +97,7 @@ In the US southern region, sales of certain products produced more profit in 201
 
 
 **Sales and Profit by Sub-category:**
+
 Humans will always purchase phones because they want the newest, most luxurious models. The revenue generated from the sales of phones increased by $29,000, with an additional profit of $4,000 in 2017. The purchase of furniture (tables) increased year over year, which led to the store owner suffering more losses.
 
 ![Annotation 2023-03-10 154446,16](https://user-images.githubusercontent.com/119788228/224555279-bd74efd4-00f5-445a-9f0f-31791c1abea2.png)  
@@ -133,6 +137,7 @@ Jonathan, Paul, and Edward purchased the highest quantity of items from the stor
 
 
 ### REPORT VIEW
+
 The report is a three-page document:
 - The home page 
 - Sales report page for 2016
@@ -149,6 +154,7 @@ The report is a three-page document:
 
 
 ### RECOMMENDATION
+
 - A business's primary goal is typically to maximize profits. For the products that are losing money, more research can be done to improve them better with lower costs while keeping their selling price. 
 - To attract more potential customers and give existing ones more justification for buying a specific product, a marketing campaign can be implemented.
 
