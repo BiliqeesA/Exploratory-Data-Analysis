@@ -65,7 +65,7 @@ The store made a profit of $81,000 in 2016 and a $93,000 profit the following ye
  
 **Quantity and Sales by Month:**
 
-For the calendar year 2016, the superstore acquired the highest revenue in December and September, with over 1000 items sold out respectively, and had the lowest sales at the beginning of the year, which relatively picked up by May. Compared to 2016, sales increased relatively in 2017. The highest sales of items occurred in September and November 2017 as a result of an increase in the number of items purchased by customers. The increase in sales could also be a result of discounted prices of items offered in the 4th quarter of the year.
+For the calendar year 2016, the store acquired the highest revenue in December and November, with over 1000 items sold out respectively, and had the lowest sales at the beginning of the year, which relatively picked up by May. Compared to 2016, sales increased relatively in 2017. The highest sales of items occurred in September and November 2017 as a result of an increase in the number of items purchased by customers. The increase in sales could also be a result of discounted prices of items offered in the 4th quarter of the year.
 
 ![Annotation 2023-03-10 153426,16](https://user-images.githubusercontent.com/119788228/224515375-d99a6beb-223c-45e4-a967-b2d7701a8f9e.png) *2016*
 
